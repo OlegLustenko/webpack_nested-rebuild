@@ -113,7 +113,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var store__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! store */ \"./src/app-store/store/index.js\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"myStore\", function() { return store__WEBPACK_IMPORTED_MODULE_0__[\"myStore\"]; });\n\n\n\n\n\n\nconsole.log('core ', store__WEBPACK_IMPORTED_MODULE_0__[\"myStore\"].secret);\n\n\n//# sourceURL=webpack://core/./src/main.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var store__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! store */ \"./src/app-store/store/index.js\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"myStore\", function() { return store__WEBPACK_IMPORTED_MODULE_0__[\"myStore\"]; });\n\n\n\n\n\n\nconsole.log('core 222 5 XXX', store__WEBPACK_IMPORTED_MODULE_0__[\"myStore\"].secret);\n\n\n//# sourceURL=webpack://core/./src/main.jsx?");
 
 /***/ })
 

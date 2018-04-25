@@ -8,6 +8,9 @@
     "webpack-cli": "^2.0.12"
   },
   "scripts": {
-    "start": "webpack --watch"
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.3"
   }
 }

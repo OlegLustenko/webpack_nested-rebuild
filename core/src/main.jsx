@@ -3,4 +3,4 @@ import {myStore} from 'store';
 
 export * from 'store';
 
-console.log('core ', myStore.secret);
+console.log('core 222 5 XXX', myStore.secret);

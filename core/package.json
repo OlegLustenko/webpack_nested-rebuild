@@ -8,6 +8,6 @@
     "webpack-cli": "^2.0.12"
   },
   "scripts": {
-    "start": "webpack --watch"
+    "start": "webpack"
   }
 }
